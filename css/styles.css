@@ -4,3 +4,17 @@ body {
 	background-color:  #e7b800; 
 	font-family: 'Oxygen', sans-serif;
 }
+
+/* HEADER */ 
+#header-nav {
+	background-color: #fff9e6 ;
+	border-radius: 0;
+	border: 0;
+}
+
+#logo-img {
+	background: url('../images/safar-logo.png') no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+}
